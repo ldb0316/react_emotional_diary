@@ -8,8 +8,8 @@ export default async function DiaryList() {
                 <div className="card" key={diary.id}>
                     <img src="/test.png" alt="test" />
                     <div className="card-body">
-                        <h5 className="card-title">{diary.title}</h5>
-                        <p className="card-text">{diary.content}</p>
+                        <h5 className="card-title text-truncate">{diary.title}</h5>
+                        <p className="card-text text-truncate">{diary.content}</p>
                     </div>
                     <button className="btn btn-primary">Read More</button>
                 </div>

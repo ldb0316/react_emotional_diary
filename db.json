@@ -11,17 +11,17 @@
       "id": "1",
       "title": "First Diary",
       "registDate": "2023-03-12",
-      "content": "This is the first diary"
+      "content": "This is the first diary 하이하이 ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ"
     },
     {
       "id": "2",
       "title": "Second Diary",
       "registDate": "2023-03-11",
-      "content": "This is the first diary"
+      "content": "오늘은 제안서를 썼다 힘들었다 하..."
     },
     {
       "id": "3",
-      "title": "Second Diary2",
+      "title": "테스트 다이어리 제목인데 좀 길어요 잘 처리되나 볼까요",
       "registDate": "2023-03-11",
       "content": "This is the first diary"
     },

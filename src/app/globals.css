@@ -305,6 +305,11 @@ form {
     }
 }
 
+.text-truncate {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
 
 
 .card {
@@ -313,6 +318,7 @@ form {
     display: flex;
     flex-direction: column;
     min-width: 0;
+    max-width: 320px;
     word-wrap: break-word;
     background-color: #fff;
     background-clip: border-box;
