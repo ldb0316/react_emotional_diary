@@ -11,17 +11,13 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
-
-  //const resp = await fetch(`${process.env.NEXT_PUBLIC_API_URL}topics`, { cache: 'no-store' });
-
-  //const topics = await resp.json();
-
-
-
   return (
     <html>
       <body>
-        {children}
+        <div className="vertical-align">
+          <CalendarHeader />
+          {children}
+        </div>
       </body>
     </html>
   );
