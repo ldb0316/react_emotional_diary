@@ -6,6 +6,14 @@
       "content": "This is the first post"
     }
   ],
+  "diarys": [
+    {
+      "id": "1",
+      "title": "First Diary",
+      "registDate": "2021-10-01",
+      "content": "This is the first diary"
+    }
+  ],
   "topics": [
     {
       "id": "1",

@@ -10,7 +10,7 @@ npx json-server --port 9999 --watch db.json
 스프링으로 치면 .properties 파일과 같은 개념.
 전체적으로 사용되는 호스트네임 등과 같은 설정값을 저장해놓고 변수로 불러서 사용한다.
 ```properties
-#.env.local
+#.env.localg
 [변수명]=[값]
 ```
 client-side rendering 페이지에서 env 변수를 사용하기 위해서는
