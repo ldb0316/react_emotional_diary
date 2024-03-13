@@ -1,6 +1,9 @@
 # react_emotional_diary
 리액트 스터디 프로젝트 2
-
+``` config
+nextJS 14.1.0
+react ^18 
+```
 ## json-server 사용 방법
 프로젝트 경로 내에 db.json 파일 생성 후 아래 명령어 수행
 ``` bash
