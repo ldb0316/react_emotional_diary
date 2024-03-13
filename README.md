@@ -1,6 +1,7 @@
 # react_emotional_diary
 리액트 스터디 프로젝트 2
 ``` config
+nodeJS 20.11.1
 nextJS 14.1.0
 react ^18 
 ```
