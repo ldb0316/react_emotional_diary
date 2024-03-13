@@ -1,7 +1,6 @@
-import CalendarHeader from "./CalendarHeader";
 import DiaryList from "./list/page";
 
-export default async function Diary() {
+export default function Diary() {
     return (
         <>
             <DiaryList />

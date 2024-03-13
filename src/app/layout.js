@@ -1,9 +1,6 @@
 // "use client";
-import Link from "next/link";
 import "./globals.css";
-import Control from "./Control";
 import CalendarHeader from "./diary/CalendarHeader";
-import DiaryList from "./diary/page";
 
 export const metadata = {
   title: "WEB Tutorial",
