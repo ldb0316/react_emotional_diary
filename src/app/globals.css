@@ -317,7 +317,9 @@ form {
     flex-wrap: wrap;
   }
 }
-@media (min-width: 1025px) {
+
+/* @media (min-width: 1025px) { */
+@media (min-width: 100px) {
   .vertical-align-lg {
     display: flex;
     flex-direction: column; /* row에서 column으로 변경하여 요소들이 세로로 정렬되도록 함 */

@@ -62,10 +62,7 @@ export default function UpdateDiaryPage() {
                 </div>
             </div>
             <hr />
-            {/* <div style={{ minWidth: "100px", maxWidth: "800px", width: "100%" }}> */}
-            <textarea className="input-no-border textarea-auto-resize textarea-initial-auto-resize" style={{ width: "100%" }} id="content" name="content" value={content} onChange={(e) => setContent(e.target.value)}></textarea>
-
-            {/* </div> */}
+            <textarea className="input-no-border textarea-auto-resize textarea-initial-auto-resize marT20 marB20" style={{ width: "100%" }} id="content" name="content" value={content} onChange={(e) => setContent(e.target.value)}></textarea>
             <hr />
         </div>
     )

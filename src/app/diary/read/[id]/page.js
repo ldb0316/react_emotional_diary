@@ -21,7 +21,7 @@ export default async function DiaryReadPage(props) {
                 </div>
             </div>
             <hr />
-            <div style={{ whiteSpace: "pre-wrap", minWidth: "100px", maxWidth: "800px" }}>
+            <div className="padL0 padR0 padT20 padB20" style={{ whiteSpace: "pre-wrap", minWidth: "100px", maxWidth: "800px" }}>
                 <p className="word-wrap-text">{diary.content}</p>
             </div>
             <hr />
