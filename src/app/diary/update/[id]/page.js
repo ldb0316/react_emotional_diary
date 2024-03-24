@@ -50,7 +50,7 @@ export default function UpdateDiaryPage() {
         // </div>
         <div className="vertical-align-lg">
             <textarea className="input-no-border input-same-as-h1 textarea-auto-resize textarea-initial-auto-resize" style={{ width: "100%" }} id="title" name="title" value={title} onChange={(e) => setTitle(e.target.value)}></textarea>
-            <div className="inline-elements spread-elements padB5 padT5 padL5 padR5" style={{ width: "100%" }}>
+            <div className="inline-elements spread-elements padB5 padT5 padL5 padR5" style={{marginTop:"8px"}}>
                 <h3 className="light-gray-text">{diary.registDate}</h3>
                 <div className="inline-elements padB5 padT5 padR5">
                     <Link href={`/diary/update/${id}`} className="btn btn-sm btn-primary marL10 marR10">
@@ -62,7 +62,7 @@ export default function UpdateDiaryPage() {
                 </div>
             </div>
             <hr />
-            <textarea className="input-no-border textarea-auto-resize textarea-initial-auto-resize marT20 marB20" style={{ width: "100%" }} id="content" name="content" value={content} onChange={(e) => setContent(e.target.value)}></textarea>
+            <textarea className="input-no-border textarea-auto-resize textarea-initial-auto-resize padT0 padB0 padL0 padR0 marT20" style={{ width: "100%", marginBottom:"36px"}} id="content" name="content" value={content} onChange={(e) => setContent(e.target.value)}></textarea>
             <hr />
         </div>
     )
