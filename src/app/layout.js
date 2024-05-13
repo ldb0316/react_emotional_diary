@@ -1,5 +1,6 @@
 // "use client";
 import "./globals.css";
+import "./tv1.css";
 import CalendarHeader from "./diary/CalendarHeader";
 
 export const metadata = {

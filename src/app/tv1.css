@@ -1,0 +1,372 @@
+.tv1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.tv1-tv1 {
+  gap: 37px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 149px 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tv1-frame6 {
+  gap: 39px;
+  display: flex;
+  padding: 14px 28px;
+  overflow: hidden;
+  flex-wrap: wrap;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.tv1-frame {
+  gap: 7.430069923400879px;
+  width: 268.9685363769531px;
+  height: 425px;
+  display: flex;
+  padding: 21.547203063964844px 11.88811206817627px;
+  overflow: hidden;
+  box-shadow: 0px 2.9720280170440674px 2.9720280170440674px 0.7430070042610168px rgba(0, 0, 0, 0.25) ;
+  box-sizing: content-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1.0658115148544312px;
+  border-radius: 18.118797302246094px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tv1-rectangle1 {
+  width: 236px;
+  height: 287px;
+}
+.tv1-frame1 {
+  gap: 7.430069923400879px;
+  width: 233.30419921875px;
+  height: 124.8251724243164px;
+  display: flex;
+  padding: 7.430069923400879px 0 29.720279693603516px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.tv1-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14.860139846801758px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-text02 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 8.916084289550781px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-text04 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 8.916084289550781px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-text06 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 8.916084289550781px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-frame1 {
+  gap: 7.430069923400879px;
+  width: 268.9685363769531px;
+  height: 425px;
+  display: flex;
+  padding: 21.547203063964844px 11.88811206817627px;
+  overflow: hidden;
+  box-shadow: 0px 2.9720280170440674px 2.9720280170440674px 0.7430070042610168px rgba(0, 0, 0, 0.25) ;
+  box-sizing: content-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1.0658115148544312px;
+  border-radius: 18.118797302246094px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tv1-rectangle11 {
+  width: 236px;
+  height: 287px;
+}
+.tv1-frame11 {
+  gap: 7.430069923400879px;
+  width: 233.30419921875px;
+  height: 124.8251724243164px;
+  display: flex;
+  padding: 7.430069923400879px 0 29.720279693603516px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.tv1-text08 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14.860139846801758px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-text10 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 8.916084289550781px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-text12 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 8.916084289550781px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-text14 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 8.916084289550781px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-frame2 {
+  gap: 7.430069923400879px;
+  width: 268.9685363769531px;
+  height: 425px;
+  display: flex;
+  padding: 21.547203063964844px 11.88811206817627px;
+  overflow: hidden;
+  box-shadow: 0px 2.9720280170440674px 2.9720280170440674px 0.7430070042610168px rgba(0, 0, 0, 0.25) ;
+  box-sizing: content-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1.0658115148544312px;
+  border-radius: 18.118797302246094px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tv1-rectangle12 {
+  width: 236px;
+  height: 287px;
+}
+.tv1-frame12 {
+  gap: 7.430069923400879px;
+  width: 233.30419921875px;
+  height: 124.8251724243164px;
+  display: flex;
+  padding: 7.430069923400879px 0 29.720279693603516px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.tv1-text16 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14.860139846801758px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-text18 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 8.916084289550781px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-text20 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 8.916084289550781px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-text22 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 8.916084289550781px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-frame3 {
+  width: 78.43795776367188px;
+  height: 197.18247985839844px;
+  display: flex;
+  padding: 21.56934356689453px 0.7189781069755554px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.tv1-frame2button-a1 {
+  width: 77px;
+  height: 139px;
+}
+.tv1-text24 {
+  color: rgba(82, 82, 82, 1);
+  height: auto;
+  font-size: 12.941605567932129px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-frame4 {
+  gap: 22px;
+  display: flex;
+  padding: 10px 0;
+  overflow: hidden;
+  flex-wrap: wrap;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tv1-rectangle3 {
+  width: 623px;
+  height: 285px;
+}
+.tv1-frame5 {
+  gap: 8px;
+  display: flex;
+  padding: 20px 26px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.tv1-text26 {
+  color: rgba(0, 0, 0, 1);
+  width: 348px;
+  height: auto;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-text30 {
+  color: rgba(0, 0, 0, 1);
+  width: 208px;
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tv1-text32 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
